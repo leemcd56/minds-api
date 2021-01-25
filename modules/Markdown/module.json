@@ -1,0 +1,13 @@
+{
+    "name": "Markdown",
+    "alias": "markdown",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Markdown\\Providers\\MarkdownServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

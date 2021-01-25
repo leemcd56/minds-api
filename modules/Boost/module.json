@@ -1,0 +1,13 @@
+{
+    "name": "Boost",
+    "alias": "boost",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Boost\\Providers\\BoostServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

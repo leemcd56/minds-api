@@ -1,0 +1,13 @@
+{
+    "name": "SendWyre",
+    "alias": "sendwyre",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SendWyre\\Providers\\SendWyreServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

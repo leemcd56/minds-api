@@ -1,0 +1,13 @@
+{
+    "name": "Sockets",
+    "alias": "sockets",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Sockets\\Providers\\SocketsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

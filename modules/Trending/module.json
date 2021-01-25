@@ -1,0 +1,13 @@
+{
+    "name": "Trending",
+    "alias": "trending",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Trending\\Providers\\TrendingServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

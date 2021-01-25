@@ -1,0 +1,13 @@
+{
+    "name": "Router",
+    "alias": "router",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Router\\Providers\\RouterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

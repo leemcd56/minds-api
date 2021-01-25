@@ -1,0 +1,13 @@
+{
+    "name": "Steward",
+    "alias": "steward",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Steward\\Providers\\StewardServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

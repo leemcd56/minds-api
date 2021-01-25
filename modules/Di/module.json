@@ -1,0 +1,13 @@
+{
+    "name": "Di",
+    "alias": "di",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Di\\Providers\\DiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

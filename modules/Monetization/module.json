@@ -1,0 +1,13 @@
+{
+    "name": "Monetization",
+    "alias": "monetization",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Monetization\\Providers\\MonetizationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

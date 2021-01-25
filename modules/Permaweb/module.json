@@ -1,0 +1,13 @@
+{
+    "name": "Permaweb",
+    "alias": "permaweb",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Permaweb\\Providers\\PermawebServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

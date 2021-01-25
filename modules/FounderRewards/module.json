@@ -1,0 +1,13 @@
+{
+    "name": "FounderRewards",
+    "alias": "founderrewards",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FounderRewards\\Providers\\FounderRewardsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

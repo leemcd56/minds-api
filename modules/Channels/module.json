@@ -1,0 +1,13 @@
+{
+    "name": "Channels",
+    "alias": "channels",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Channels\\Providers\\ChannelsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

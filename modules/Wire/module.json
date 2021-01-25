@@ -1,0 +1,13 @@
+{
+    "name": "Wire",
+    "alias": "wire",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Wire\\Providers\\WireServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

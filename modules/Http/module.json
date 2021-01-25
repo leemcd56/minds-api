@@ -1,0 +1,13 @@
+{
+    "name": "Http",
+    "alias": "http",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Http\\Providers\\HttpServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

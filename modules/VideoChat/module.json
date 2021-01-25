@@ -1,0 +1,13 @@
+{
+    "name": "VideoChat",
+    "alias": "videochat",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\VideoChat\\Providers\\VideoChatServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

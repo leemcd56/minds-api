@@ -1,0 +1,13 @@
+{
+    "name": "Experiments",
+    "alias": "experiments",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Experiments\\Providers\\ExperimentsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

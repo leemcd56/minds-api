@@ -1,0 +1,13 @@
+{
+    "name": "Provisioner",
+    "alias": "provisioner",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Provisioner\\Providers\\ProvisionerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

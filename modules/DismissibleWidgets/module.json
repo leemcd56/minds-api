@@ -1,0 +1,13 @@
+{
+    "name": "DismissibleWidgets",
+    "alias": "dismissiblewidgets",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\DismissibleWidgets\\Providers\\DismissibleWidgetsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

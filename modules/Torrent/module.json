@@ -1,0 +1,13 @@
+{
+    "name": "Torrent",
+    "alias": "torrent",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Torrent\\Providers\\TorrentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

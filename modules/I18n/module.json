@@ -1,0 +1,13 @@
+{
+    "name": "I18n",
+    "alias": "i18n",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\I18n\\Providers\\I18nServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
